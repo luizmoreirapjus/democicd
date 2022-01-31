@@ -1,0 +1,6 @@
+C:\Projetos\Poc\democici-lib\demo\bin\Debug\demo.dll
+C:\Projetos\Poc\democici-lib\demo\bin\Debug\demo.pdb
+C:\Projetos\Poc\democici-lib\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Projetos\Poc\democici-lib\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Projetos\Poc\democici-lib\demo\obj\Debug\demo.dll
+C:\Projetos\Poc\democici-lib\demo\obj\Debug\demo.pdb
